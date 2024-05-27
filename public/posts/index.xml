@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Christopher Loyd</title>
+    <link>http://localhost:1313/Christopher-Loyd/christopherloyd.com.github.io/posts/</link>
+    <description>Recent content in Posts on Christopher Loyd</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 22:43:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/Christopher-Loyd/christopherloyd.com.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C Integer Typedefs</title>
+      <link>http://localhost:1313/Christopher-Loyd/christopherloyd.com.github.io/posts/c-integer-typedefs/</link>
+      <pubDate>Sun, 26 May 2024 22:43:14 -0500</pubDate>
+      <guid>http://localhost:1313/Christopher-Loyd/christopherloyd.com.github.io/posts/c-integer-typedefs/</guid>
+      <description>I have been learning C for the past several weeks and have been attracted to explicitly specifying the length and signedness(?) of integer types. &amp;lt;stdint.h&amp;gt; provides these explicit definitions, but unfortunately they&amp;rsquo;re cumbersome to type out regularly with type names such as uint8_t and int32_t.&#xA;To solve this problem, I create a header &amp;lt;int.h&amp;gt; that I can then import in with typedefs to rename these explicit type definitions anywhere I need to use them.</description>
+    </item>
+  </channel>
+</rss>
