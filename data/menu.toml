@@ -1,0 +1,45 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "Data Professional with 20 years of experience."
+
+  [[entries.entries]]
+  title = "Expertise in the following data specializations"
+    [[entries.entries.entries]]
+    title = "Data Engineering"
+    [[entries.entries.entries]]
+    title = "Data Architecture"
+    [[entries.entries.entries]]
+    title = "Business Intelligence"
+    [[entries.entries.entries]]
+    title = "OLTP and OLAP Data Modeling"
+    [[entries.entries.entries]]
+    title = "Data Quality Testing"
+    [[entries.entries.entries]]
+    title = "Data Governance"
+    [[entries.entries.entries]]
+    title = "Database Administration"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "contact"
+  [[entries.entries]]
+  title = "Email: <a href='mailto:me@christopherloyd.com'>me@christopherloyd.com</a>"
+  [[entries.entries]]
+  title = "Discord: sqlsavant"
+  [[entries.entries]]
+  title = "<a href='https://github.com/Christopher-Loyd'>GitHub</a>"
+[[entries]]
+title = "consulting"
+
+  [[entries.entries]]
+  title = "Available for U.S. 1099 and C2C short-term consulting/contracting related to expertise listed in info section. Email for details."
